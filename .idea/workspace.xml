@@ -15,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AgelnsultGnerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AgelnsultGnerator.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="e#2734#2735#0" expanded="true" />
-                <element signature="e#2801#2802#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HighLow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HighLow.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,8 +54,41 @@
       <file leaf-file-name="RockPaperSicciors.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RockPaperSicciors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1107">
-              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+            <state relative-caret-position="335">
+              <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixDebugFive2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FixDebugFive2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#674#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixDebugFive3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FixDebugFive3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixDebugFive4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FixDebugFive4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -87,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FixDebugFive1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FixDebugFive1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FixDebugFive1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <state relative-caret-position="54">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -117,15 +132,17 @@
         <option value="$PROJECT_DIR$/src/HighLow.java" />
         <option value="$PROJECT_DIR$/src/EvenOdd.java" />
         <option value="$PROJECT_DIR$/src/AscendingAndDescending.java" />
-        <option value="$PROJECT_DIR$/src/RockPaperSicciors.java" />
         <option value="$PROJECT_DIR$/src/CountDown.java" />
         <option value="$PROJECT_DIR$/src/FixDebugFive1.java" />
+        <option value="$PROJECT_DIR$/src/RockPaperSicciors.java" />
+        <option value="$PROJECT_DIR$/src/FixDebugFive2.java" />
+        <option value="$PROJECT_DIR$/src/FixDebugFive3.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-1444" />
-    <option name="y" value="19" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="598" />
+    <option name="y" value="-28" />
     <option name="width" value="1452" />
     <option name="height" value="873" />
   </component>
@@ -170,14 +187,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RockPaperSicciors">
-    <configuration name="AgelnsultGnerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AgelnsultGnerator" />
+  <component name="RunManager" selected="Application.FixDebugFive1">
+    <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AscendingAndDescending" />
       <module name="Chapter 5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AscendingAndDescending" />
+    <configuration name="FixDebugFive1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixDebugFive1" />
       <module name="Chapter 5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -238,19 +255,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AgelnsultGnerator" />
       <item itemvalue="Application.Triangle" />
       <item itemvalue="Application.GradeLevel" />
       <item itemvalue="Application.AscendingAndDescending" />
       <item itemvalue="Application.RockPaperSicciors" />
+      <item itemvalue="Application.FixDebugFive1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixDebugFive1" />
         <item itemvalue="Application.RockPaperSicciors" />
         <item itemvalue="Application.AscendingAndDescending" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.GradeLevel" />
-        <item itemvalue="Application.AgelnsultGnerator" />
       </list>
     </recent_temporary>
   </component>
@@ -268,22 +285,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1444" y="19" width="1452" height="873" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32837406" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3298292" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.24967149" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.24867162" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15181059" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11354167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -296,7 +314,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="6" weight="0.3285151" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -316,23 +333,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CountDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FixDebugFive1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AgelnsultGnerator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -644,6 +644,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixDebugFive1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CountDown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -653,15 +660,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RockPaperSicciors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        <state relative-caret-position="335">
+          <caret line="39" column="33" lean-forward="true" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FixDebugFive1.java">
+    <entry file="file://$PROJECT_DIR$/src/FixDebugFive2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="540">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixDebugFive3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FixDebugFive4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
