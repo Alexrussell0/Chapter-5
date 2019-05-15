@@ -5,45 +5,47 @@ public class GradeLevel {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         String year;
+        String result;
         System.out.println("Please enter what year you are in high school");
         year = input.next();
 
-        String result;
-        switch (year){
+        switch (year)
+
+        {
             case "Freshman":
-                result = "you are a frist year student.";
+                result = "You are a first year student.";
                 break;
             case "Sophomore":
                 result = "You are a second year student";
                 break;
             case "Junior":
-                result = "You are a thrid year student";
+                result = "You are a third year student";
                 break;
-            case "senior":
-                result = "This is your last year as a student";
+            case "Senior":
+                result = "You are a forth year student";
                 break;
             default:
                 result = "Invalid student";
         }
         System.out.println(result);
-        aDifferentCaseBreak();
+
     }
     public static void aDifferentCaseBreak(){
         String result;
         Scanner input = new Scanner(System.in);
-        System.out.println("please enter what yea you are in high school");
+        System.out.println("Please enter what year you are in high school");
         int num = input.nextInt();
 
         switch (num)
         {
             case 1:
-                result = "that is the number " + num;
+                result = "That is the number " + num;
                 break;
             case 2:
-                result = "That is the number"+ num;
-                break;
+                result = "That is the number " + num;
             default:
                 result = "That is not a number available";
+
         }
         System.out.println(result);
     }
